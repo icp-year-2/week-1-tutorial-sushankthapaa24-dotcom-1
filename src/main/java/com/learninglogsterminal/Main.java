@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  * ╔══════════════════════════════════════════════════════╗
- * ║        Learning Logs Terminal — Main Menu             ║
+ * ║        Learning Logs Terminal — Main Menu            ║
  * ║                                                      ║
  * ║   This file is PROVIDED for you. No changes needed!  ║
  * ║   Study how it works — it calls YOUR code.           ║
